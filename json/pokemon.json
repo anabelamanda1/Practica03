@@ -21,7 +21,12 @@
           "nombre": "Squirtle",
           "tipo": "Agua",
           "foto": "images/004.png"
-      }
+      },
+      {
+        "nombre": "Lucario",
+        "tipo": "Acero",
+        "foto": "images/022.png"
+        }
     ] 
   },
   {
@@ -30,27 +35,27 @@
       {
         "nombre": "Starmie",
         "tipo": "Agua",
-        "foto": "images/57001.png"
+        "foto": "images/005.png"
       },
       {
           "nombre": "Psyduck",
           "tipo": "Agua",
-          "foto": ".images/57001.png"
+          "foto": "images/006.png"
       },
       {
           "nombre": "Gyarados",
           "tipo": "Agua",
-          "foto": "images/57001.png"
+          "foto": "images/007.png"
       },
       {
           "nombre": "Poliwhirl",
           "tipo": "Agua",
-          "foto": "images/57001.png"
+          "foto": "images/008.png"
       },
       {
           "nombre": "Togepi",
           "tipo": "Hada",
-          "foto": "images/57001.png"
+          "foto": "images/009.png"
       }
     ] 
   },
@@ -60,27 +65,27 @@
       {
         "nombre": "Onix",
         "tipo": "Roca",
-        "foto": "images/57001.png"
+        "foto": "images/010.png"
       },
       {
           "nombre": "Geodude",
           "tipo": "Tierra",
-          "foto": ".images/57001.png"
+          "foto": "images/011.png"
       },
       {
           "nombre": "Vulpix",
           "tipo": "Fuego",
-          "foto": "images/57001.png"
+          "foto": "images/012.png"
       },
       {
           "nombre": "Croagunk",
           "tipo": "Lucha",
-          "foto": "images/57001.png"
+          "foto": "images/013.png"
       },
       {
           "nombre": "Steelix",
           "tipo": "Acero",
-          "foto": "images/57001.png"
+          "foto": "images/014.png"
       }
     ] 
   },
@@ -90,27 +95,27 @@
       {
         "nombre": "Blastoise",
         "tipo": "Agua",
-        "foto": "images/57001.png"
+        "foto": "images/015.png"
       },
       {
           "nombre": "Arcanine",
           "tipo": "Fuego",
-          "foto": ".images/57001.png"
+          "foto": "images/016.png"
       },
       {
           "nombre": "Nidoking",
           "tipo": "Tierra",
-          "foto": "images/57001.png"
+          "foto": "images/017.png"
       },
       {
           "nombre": "Umbreon",
           "tipo": "Siniestro",
-          "foto": "images/57001.png"
+          "foto": "images/018.png"
       },
       {
           "nombre": "Scizor",
           "tipo": "Acero",
-          "foto": "images/57001.png"
+          "foto": "images/019.png"
       }
     ] 
   },
@@ -120,27 +125,27 @@
       {
         "nombre": "Garchomp",
         "tipo": "Tierra",
-        "foto": "images/57001.png"
+        "foto": "images/020.png"
       },
       {
           "nombre": "Roserade",
           "tipo": "Planta",
-          "foto": ".images/57001.png"
+          "foto": "images/021.png"
       },
       {
           "nombre": "Lucario",
           "tipo": "Acero",
-          "foto": "images/57001.png"
+          "foto": "images/022.png"
       },
       {
           "nombre": "Milotic",
           "tipo": "Agua",
-          "foto": "images/57001.png"
+          "foto": "images/023.png"
       },
       {
           "nombre": "Spiritomb",
           "tipo": "Fantasma",
-          "foto": "images/57001.png"
+          "foto": "images/024.png"
       }
     ] 
   }

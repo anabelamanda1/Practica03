@@ -17,54 +17,63 @@ body {
 }
 
 .pokemon {
+  margin: 10px 0;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.pokemon p {
   margin: 5px 0;
+  font-weight: bold;
 }
 
 .pokemon img {
   width: 100px;
   height: 100px;
+  display: block;
+  margin: 0 auto;
 }
 
 .planta {
-  background-color: green;
+  border: 2px solid green;
 }
 
 .fuego {
-  background-color: red;
+  border: 2px solid red;
 }
 
 .electrico {
-  background-color: yellow;
+  border: 2px solid yellow;
 }
 
 .agua {
-  background-color: blue;
+  border: 2px solid blue;
 }
 
 .hada {
-  background-color: pink;
+  border: 2px solid pink;
 }
 
 .roca {
-  background-color: brown;
+  border: 2px solid brown;
 }
 
 .tierra {
-  background-color: tan;
+  border: 2px solid tan;
 }
 
 .lucha {
-  background-color: orange;
+  border: 2px solid orange;
 }
 
 .acero {
-  background-color: lightgray;
+  border: 2px solid lightgray;
 }
 
 .siniestro {
-  background-color: darkgray;
+  border: 2px solid darkgray;
 }
 
 .fantasma {
-  background-color: purple;
+  border: 2px solid purple;
 }

@@ -14,6 +14,7 @@ $(document).ready(function() {
         let pokemonDiv = $(`
           <div class="pokemon ${tipoClase}">
             <p>${pokemon.nombre}</p>
+            <h5>${pokemon.tipo}</h5>
             <img src="${pokemon.foto}" alt="${pokemon.nombre}">
           </div>
         `);
@@ -53,4 +54,3 @@ $(document).ready(function() {
     }
   }
 });
-
