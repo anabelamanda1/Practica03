@@ -1,0 +1,152 @@
+[
+  {
+      "entrenador": "Ash Ketchum",
+      "pokemons": [
+      {
+        "nombre": "Pikachu",
+        "tipo": "Eléctrico",
+        "foto": "images/003.png"
+      },
+      {
+          "nombre": "Charizard",
+          "tipo": "Fuego",
+          "foto": ".images/57001.png"
+      },
+      {
+          "nombre": "Bulbasaur",
+          "tipo": "Planta",
+          "foto": "images/57001.png"
+      },
+      {
+          "nombre": "Squirtle",
+          "tipo": "Agua",
+          "foto": "images/57001.png"
+      },
+      {
+          "nombre": "Greninja",
+          "tipo": "Agua",
+          "foto": "images/57001.png"
+      }
+    ] 
+  },
+  {
+      "entrenador": "Misty",
+      "pokemons": [
+      {
+        "nombre": "Starmie",
+        "tipo": "Agua",
+        "foto": "images/57001.png"
+      },
+      {
+          "nombre": "Psyduck",
+          "tipo": "Agua",
+          "foto": ".images/57001.png"
+      },
+      {
+          "nombre": "Gyarados",
+          "tipo": "Agua",
+          "foto": "images/57001.png"
+      },
+      {
+          "nombre": "Poliwhirl",
+          "tipo": "Agua",
+          "foto": "images/57001.png"
+      },
+      {
+          "nombre": "Togepi",
+          "tipo": "Hada",
+          "foto": "images/57001.png"
+      }
+    ] 
+  },
+  {
+      "entrenador": "Brock",
+      "pokemons": [
+      {
+        "nombre": "Onix",
+        "tipo": "Roca",
+        "foto": "images/57001.png"
+      },
+      {
+          "nombre": "Geodude",
+          "tipo": "Tierra",
+          "foto": ".images/57001.png"
+      },
+      {
+          "nombre": "Vulpix",
+          "tipo": "Fuego",
+          "foto": "images/57001.png"
+      },
+      {
+          "nombre": "Croagunk",
+          "tipo": "Lucha",
+          "foto": "images/57001.png"
+      },
+      {
+          "nombre": "Steelix",
+          "tipo": "Acero",
+          "foto": "images/57001.png"
+      }
+    ] 
+  },
+  {
+      "entrenador": "Gary Oak",
+      "pokemons": [
+      {
+        "nombre": "Blastoise",
+        "tipo": "Agua",
+        "foto": "images/57001.png"
+      },
+      {
+          "nombre": "Arcanine",
+          "tipo": "Fuego",
+          "foto": ".images/57001.png"
+      },
+      {
+          "nombre": "Nidoking",
+          "tipo": "Tierra",
+          "foto": "images/57001.png"
+      },
+      {
+          "nombre": "Umbreon",
+          "tipo": "Siniestro",
+          "foto": "images/57001.png"
+      },
+      {
+          "nombre": "Scizor",
+          "tipo": "Acero",
+          "foto": "images/57001.png"
+      }
+    ] 
+  },
+  {
+      "entrenador": "Cynthia",
+      "pokemons": [
+      {
+        "nombre": "Garchomp",
+        "tipo": "Tierra",
+        "foto": "images/57001.png"
+      },
+      {
+          "nombre": "Roserade",
+          "tipo": "Planta",
+          "foto": ".images/57001.png"
+      },
+      {
+          "nombre": "Lucario",
+          "tipo": "Acero",
+          "foto": "images/57001.png"
+      },
+      {
+          "nombre": "Milotic",
+          "tipo": "Agua",
+          "foto": "images/57001.png"
+      },
+      {
+          "nombre": "Spiritomb",
+          "tipo": "Fantasma",
+          "foto": "images/57001.png"
+      }
+    ] 
+  }
+]
