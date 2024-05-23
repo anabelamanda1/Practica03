@@ -5,27 +5,22 @@
       {
         "nombre": "Pikachu",
         "tipo": "Eléctrico",
-        "foto": "images/003.png"
+        "foto": "images/001.png"
       },
       {
           "nombre": "Charizard",
           "tipo": "Fuego",
-          "foto": ".images/57001.png"
+          "foto": "images/002.png"
       },
       {
           "nombre": "Bulbasaur",
           "tipo": "Planta",
-          "foto": "images/57001.png"
+          "foto": "images/003.png"
       },
       {
           "nombre": "Squirtle",
           "tipo": "Agua",
-          "foto": "images/57001.png"
-      },
-      {
-          "nombre": "Greninja",
-          "tipo": "Agua",
-          "foto": "images/57001.png"
+          "foto": "images/004.png"
       }
     ] 
   },
